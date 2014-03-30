@@ -5,9 +5,9 @@ Téléchargement figures :
 - Récupérer infos figures [ok]
 - Afficher liste figures [ok]
 - Télécharger archive figure [ok]
-- Vérifier si téléchargé
-- Extraire fichier 
-- Supprimer archive
+- Vérifier si téléchargé [OK]
+- Extraire fichier [OK]
+- Supprimer archive [pas eu besoin]
 - Apprendre à utiliser masteries/details
 
 Figures :
